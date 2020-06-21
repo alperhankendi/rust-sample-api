@@ -4,7 +4,7 @@
 cargo run
 ```
 
-##Testing curls
+## Testing curls
 After you update the code, restart the server via cargo run and use these curls to post, update, get, and delete items.
 
 #### POST
