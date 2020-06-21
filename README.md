@@ -1,4 +1,4 @@
-![Rust](https://github.com/alperhankendi/rust-sample-api/workflows/Rust/badge.svg?event=status)![Rust](https://github.com/alperhankendi/rust-sample-api/workflows/Rust/badge.svg?event=push)
+![Rust](https://github.com/alperhankendi/rust-sample-api/workflows/Rust/badge.svg?event=push)
 
 ## start api
 ```
